@@ -31,4 +31,16 @@ app.get("/movies", (req, res) => {
   }
 });
 
+app.get("/movies/:genre", (req, res) => {
+  try {
+    const { genre } = req.params;
+    const movies = readMovies();
+    const filtered = movies.filter((movie) => movie.genre === genre);
+    res.status(200).json(filtered);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Kunde inte filtrera filmer" });
+  }
+});
+
 module.exports = { app };
