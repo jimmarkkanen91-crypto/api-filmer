@@ -86,5 +86,21 @@
     "ar": 2026,
     "regissor": "Test Testsson",
     "betyg": 5
+  },
+  {
+    "id": 12,
+    "titel": "Testfilmen",
+    "genre": "test",
+    "ar": 2026,
+    "regissor": "Test Testsson",
+    "betyg": 5
+  },
+  {
+    "id": 13,
+    "titel": "test1",
+    "genre": "test1",
+    "ar": 2026,
+    "regissor": "test1",
+    "betyg": 10
   }
 ]
