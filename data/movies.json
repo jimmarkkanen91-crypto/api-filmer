@@ -1,12 +1,90 @@
 [
-  { "id": 1, "titel": "Interstellar", "genre": "sci-fi", "ar": 2014, "regissor": "Christopher Nolan", "betyg": 8.7 },
-  { "id": 2, "titel": "Blade Runner 2049", "genre": "sci-fi", "ar": 2017, "regissor": "Denis Villeneuve", "betyg": 8.0 },
-  { "id": 3, "titel": "Arrival", "genre": "sci-fi", "ar": 2016, "regissor": "Denis Villeneuve", "betyg": 7.9 },
-  { "id": 4, "titel": "Parasite", "genre": "drama", "ar": 2019, "regissor": "Bong Joon-ho", "betyg": 8.5 },
-  { "id": 5, "titel": "The Godfather", "genre": "drama", "ar": 1972, "regissor": "Francis Ford Coppola", "betyg": 9.2 },
-  { "id": 6, "titel": "Whiplash", "genre": "drama", "ar": 2014, "regissor": "Damien Chazelle", "betyg": 8.5 },
-  { "id": 7, "titel": "Superbad", "genre": "komedi", "ar": 2007, "regissor": "Greg Mottola", "betyg": 7.6 },
-  { "id": 8, "titel": "The Grand Budapest Hotel", "genre": "komedi", "ar": 2014, "regissor": "Wes Anderson", "betyg": 8.1 },
-  { "id": 9, "titel": "Knives Out", "genre": "komedi", "ar": 2019, "regissor": "Rian Johnson", "betyg": 7.9 },
-  { "id": 10, "titel": "Get Out", "genre": "skrack", "ar": 2017, "regissor": "Jordan Peele", "betyg": 7.7 }
+  {
+    "id": 1,
+    "titel": "Interstellar",
+    "genre": "sci-fi",
+    "ar": 2014,
+    "regissor": "Christopher Nolan",
+    "betyg": 9.9
+  },
+  {
+    "id": 2,
+    "titel": "Blade Runner 2049",
+    "genre": "sci-fi",
+    "ar": 2017,
+    "regissor": "Denis Villeneuve",
+    "betyg": 8
+  },
+  {
+    "id": 3,
+    "titel": "Arrival",
+    "genre": "sci-fi",
+    "ar": 2016,
+    "regissor": "Denis Villeneuve",
+    "betyg": 7.9
+  },
+  {
+    "id": 4,
+    "titel": "Parasite",
+    "genre": "drama",
+    "ar": 2019,
+    "regissor": "Bong Joon-ho",
+    "betyg": 8.5
+  },
+  {
+    "id": 5,
+    "titel": "The Godfather",
+    "genre": "drama",
+    "ar": 1972,
+    "regissor": "Francis Ford Coppola",
+    "betyg": 9.2
+  },
+  {
+    "id": 6,
+    "titel": "Whiplash",
+    "genre": "drama",
+    "ar": 2014,
+    "regissor": "Damien Chazelle",
+    "betyg": 8.5
+  },
+  {
+    "id": 7,
+    "titel": "Superbad",
+    "genre": "komedi",
+    "ar": 2007,
+    "regissor": "Greg Mottola",
+    "betyg": 7.6
+  },
+  {
+    "id": 8,
+    "titel": "The Grand Budapest Hotel",
+    "genre": "komedi",
+    "ar": 2014,
+    "regissor": "Wes Anderson",
+    "betyg": 8.1
+  },
+  {
+    "id": 9,
+    "titel": "Knives Out",
+    "genre": "komedi",
+    "ar": 2019,
+    "regissor": "Rian Johnson",
+    "betyg": 7.9
+  },
+  {
+    "id": 10,
+    "titel": "Get Out",
+    "genre": "skrack",
+    "ar": 2017,
+    "regissor": "Jordan Peele",
+    "betyg": 7.7
+  },
+  {
+    "id": 11,
+    "titel": "Testfilmen",
+    "genre": "test",
+    "ar": 2026,
+    "regissor": "Test Testsson",
+    "betyg": 5
+  }
 ]
