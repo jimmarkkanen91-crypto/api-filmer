@@ -90,6 +90,18 @@ app.get("/movies", (req, res) => {
  *         name: id
  *         required: true
  *         schema: { type: integer }
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               titel: { type: string }
+ *               genre: { type: string }
+ *               ar: { type: integer }
+ *               regissor: { type: string }
+ *               betyg: { type: number }
  *     responses:
  *       200: { description: Filmen uppdaterades }
  *       404: { description: Filmen hittades inte }

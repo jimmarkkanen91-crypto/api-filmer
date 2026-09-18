@@ -48,20 +48,12 @@
     "betyg": 8.5
   },
   {
-    "id": 7,
-    "titel": "Superbad",
-    "genre": "komedi",
-    "ar": 2007,
-    "regissor": "Greg Mottola",
-    "betyg": 7.6
-  },
-  {
     "id": 8,
-    "titel": "The Grand Budapest Hotel",
-    "genre": "komedi",
-    "ar": 2014,
-    "regissor": "Wes Anderson",
-    "betyg": 8.1
+    "titel": "tesssttt222",
+    "genre": "testttt222",
+    "ar": 0,
+    "regissor": "testtt",
+    "betyg": 8
   },
   {
     "id": 9,
@@ -102,5 +94,13 @@
     "ar": 2026,
     "regissor": "test1",
     "betyg": 10
+  },
+  {
+    "id": 14,
+    "titel": "Testfilmen",
+    "genre": "test",
+    "ar": 2026,
+    "regissor": "Test Testsson",
+    "betyg": 5
   }
 ]
